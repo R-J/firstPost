@@ -1,0 +1,9 @@
+.FirstPost {
+    border: 1px solid red !important;
+}
+.FirstDiscussion {
+    border: 1px dashed red !important;
+}
+.FirstComment {
+    border: 1px dashed red !important;
+}
